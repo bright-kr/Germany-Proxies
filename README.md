@@ -1,6 +1,6 @@
 # Bright Data's Germany Proxies
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/locations/de) 
+[![Promo](https://github.com/bright-kr/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/locations/de) 
 
 ## Overview
 정확한 타기팅, 타의 추종을 불허하는 안정성, 빠른 응답 시간을 제공하도록 설계된 Bright Data의 [Germany プロキシ](https://brightdata.co.kr/locations/de)로 원활한 スクレイピング을 경험해 보십시오. Germany에서 웹사이트를 スクレイピング하기 시작하고 더 이상 차단되지 마십시오.
@@ -43,7 +43,7 @@
 - **3G/4G/5G モバイルプロキシ IPアドレス**
 - **24/7 글로벌 지원**
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/locations/de) 
+[![Promo](https://github.com/bright-kr/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/locations/de) 
 
 ## Getting Started with Bright Data's Germany proxies
 1. **무료 체험 시작**: 신용카드가 필요하지 않습니다.
